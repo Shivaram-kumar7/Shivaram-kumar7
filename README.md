@@ -1,10 +1,10 @@
-- 👋 Hi, I’m 
-- 👀 I’m interested in 
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate 
-- 📫 How to reach me 
+- 👋 Hi, I’m Shivaram Kumar
+- 👀 I’m interested in Cybersecurity  
+- 🌱 I’m currently learning Python, the best scripting language 
+- 💞️ I’m looking to collaborate with all
+- 📫 How to reach me : connect with my linkedin
 - 😄 Pronouns: He/HIM
-- ⚡ Fun fact: 
+- ⚡ Fun fact: The fact is fun ahahah
 
 <!---
 Shivaram-kumar7/Shivaram-kumar7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
